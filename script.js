@@ -42,3 +42,4 @@ console.log(`seu peso é ${peso}, sua altura é ${altura}, seu iMC é ${conta}, 
 }
 
 
+
