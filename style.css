@@ -1,0 +1,54 @@
+body {
+    background-color: #f0f8ff; /* Cor de fundo pastel */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    .titulo {
+        font-size: 2em;
+        font-weight: bold;
+        margin-bottom: 20px;
+        text-align: center;
+        width: 100%;
+    }
+  
+}
+
+.container {
+    background-color: #ffffff; /* Fundo branco para o container */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+input[type="text"], input[type="number"] {
+    border: 1px solid #d3d3d3; /* Borda cinza clara */
+    border-radius: 5px;
+    padding: 10px;
+    width: 80%;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #add8e6; /* Azul claro */
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #87ceeb; /* Azul mais escuro ao passar o mouse */
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #4682b4; /* Azul aço */
+}
+
+
