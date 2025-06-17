@@ -41,3 +41,4 @@ else if (conta >= 40) {
 console.log(`seu peso é ${peso}, sua altura é ${altura}, seu iMC é ${conta}, e seu nivel é${classificacao}`); // Exibe o resultado no console
 }
 
+
